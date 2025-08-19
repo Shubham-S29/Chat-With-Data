@@ -1,0 +1,9 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the environment file with the secret API key
+.env
+
+# Ignore system files (optional but good practice)
+__pycache__/
+*.pyc
